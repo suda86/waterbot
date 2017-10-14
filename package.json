@@ -1,0 +1,15 @@
+{
+  "name": "sranje",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "claudia-bot-builder": "^2.15.0",
+    "minimal-request-promise": "^1.4.0"
+  }
+}
